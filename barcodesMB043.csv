@@ -1,0 +1,6 @@
+id,name,read,pattern,sequence,feature_type
+barc1,Timepoint1,R2,5PNNNNNNNNNN(BC),GTCAACTCTTTAGCG,Antibody Capture
+barc2,Timepoint2,R2,5PNNNNNNNNNN(BC),TGATGGCCTATTGGG,Antibody Capture
+barc3,Timepoint3,R2,5PNNNNNNNNNN(BC),TTCCGCCTCTCTTTG,Antibody Capture
+barc4,Timepoint4,R2,5PNNNNNNNNNN(BC),AGTAAGTTCAGCGTA,Antibody Capture
+barc5,Timepoint5,R2,5PNNNNNNNNNN(BC),AAGTATCGTTTCGCA,Antibody Capture
