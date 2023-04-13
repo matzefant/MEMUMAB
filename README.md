@@ -1,5 +1,5 @@
 # MEMUMAB
-Supplementary information for publication Bruhn et al. 2023
+Supplementary information for publication Bruhn et al. (2023, under consideration)
 
 Instructions:
 
